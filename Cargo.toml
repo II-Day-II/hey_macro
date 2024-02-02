@@ -1,0 +1,8 @@
+[package]
+name = "hey_macro"
+license = "MIT"
+version = "0.1.0"
+edition = "2021"
+description = "A macro that lets you make your method calls with authority!"
+
+[dependencies]
